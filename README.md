@@ -27,6 +27,19 @@ app.py         # Streamlit application
 main.py        # Model/training logic
 infer.py       # Inference logic
 ```
+Key Features
+
+-  Symptom-based disease prediction
+-  Multiple Machine Learning classification models
+-  Decision Tree model
+-  Random Forest model
+-  Naive Bayes model
+-  Prediction confidence score
+-  Interactive Streamlit user interface
+-  Pre-trained models stored using Joblib
+-  Live cloud deployment
+-  Model selection through the web interface
+
 
 ## Engineering Focus
 Demonstrates an end-to-end ML workflow: data preparation, model training, classifier comparison, model serialization, and deployable inference.
