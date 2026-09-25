@@ -18,6 +18,11 @@ Dataset → Preprocessing → Feature Engineering → Training
 ## Tech Stack
 **Python** · **Pandas** · **NumPy** · **Scikit-learn** · **Joblib** · **Streamlit**
 
+##  Live Demo
+
+ **Live Application:**  
+https://disease-prediction-using-symptoms-3dr9tchfzmu6ryczdmkzkw.streamlit.app/
+
 ## Project Structure
 ```
 dataset/       # Training data
